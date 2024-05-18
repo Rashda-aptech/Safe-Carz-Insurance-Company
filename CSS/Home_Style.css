@@ -1,0 +1,715 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Class_1:hover {
+    background-color: goldenrod;
+  }
+  
+body {
+    background: #f1fbff;
+}
+
+.section-padding {
+    padding: 100px 0;
+}
+
+.active {
+    color: goldenrod !important;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption {
+    bottom: 220px;
+    z-index: 2;
+}
+
+.carousel-caption h5 {
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.carousel-caption p {
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+.carousel-inner::before {
+    content: " ";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+}
+
+.navbar-nav a {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-brand {
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .navbar-link {
+    color: #000;
+}
+
+.w-100 {
+    height: 100vh;
+}
+
+.services .card-body i {
+    font-size: 50px;
+}
+
+.team .card-body i {
+    font-size: 20px;
+}
+
+.portfolio .card {
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.team .card {
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.inner {
+    overflow: hidden;
+}
+
+.inner img {
+    transition: all 1.5s ease;
+}
+
+.inner:hover img {
+    transform: scale(1.5);
+}
+
+.inner_1 {
+    overflow: hidden;
+}
+
+.inner_1 i {
+    transition: all 1.5s ease;
+}
+
+.inner_1:hover i {
+    transform: scale(1.5);
+}
+
+.inner_2 {
+    overflow: hidden;
+}
+
+.inner_2 button {
+    transition: all 1.5s ease-in-out;
+}
+
+.inner_2:hover button {
+    transform: scale(1.5);
+}
+
+.ctu {
+    font-size: 14px;
+}
+
+.ctu_1 {
+    font-size: 20px;
+}
+
+#Bcg {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../IMAGES/Boost-Your-Car-Insurance.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/* Contact Us Styling  */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1000px !important;
+}
+
+p {
+    font-size: 12px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-primary {
+    background-color: rgba(0, 0, 255, 0.771) !important;
+}
+
+.form-control {
+    height: 36px !important;
+    background: #fff;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 14px;
+    border-radius: 2px;
+    box-shadow: none !important;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.contactForm .form-control {
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 0;
+}
+
+.form-control :focus .form-control :active {
+    border-color: #170b81 !important;
+}
+
+.btn-primary {
+    background-color: navy !important;
+    border-color: darkblue !important;
+    color: white;
+    width: 100px;
+    border-radius: 0 !important;
+}
+
+.btn-primary :hover {
+    background-color: rgb(204, 18, 18) !important;
+}
+
+.fa {
+    font-size: 50px;
+}
+
+.form-label {
+    font-size: 18px !important;
+}
+
+@media only screen and (max-width:600px) {
+    .container {
+        width: 100% !important;
+        padding-bottom: 207px !important;
+    }
+}
+
+.Class_1:hover {
+    background-color: goldenrod;
+    border-radius: 13px;
+}
+
+.AU_2 {
+    font-size: 24px;
+}
+
+.AU_3 {
+    font-size: 18px;
+}
+
+.AU_1 {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+
+.TC {
+    color: white;
+}
+
+
+
+
+/* End of Contact Us styling  */
+
+
+
+/* FAQs Styling  */
+
+/* * {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} */
+
+body {
+    background: #f1fbff;
+}
+
+.section-padding {
+    padding: 100px 0;
+}
+
+.active {
+    color: goldenrod !important;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption {
+    bottom: 220px;
+    z-index: 2;
+}
+
+.carousel-caption h5 {
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.carousel-caption p {
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+
+.carousel-inner::before {
+    content: " ";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+}
+
+.navbar-nav a {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-brand {
+    color: #000;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .navbar-link {
+    color: #000;
+}
+
+.w-100 {
+    height: 100vh;
+}
+
+.services .card-body i {
+    font-size: 50px;
+}
+
+.team .card-body i {
+    font-size: 20px;
+}
+
+.portfolio .card {
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.team .card {
+    box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+
+/* About_Us STyling  */
+
+.AU_1 {
+    text-decoration: none;
+    color: white;
+}
+
+.AU_2 {
+    font-size: 24px;
+}
+
+.AU_3 {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+/* Responsiveness By Media Query  */
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
+    .carousel-caption {
+        bottom: 370px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+    }
+
+    .card {
+        margin-bottom: 30px;
+    }
+
+    .img-area img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .carousel-caption {
+        bottom: 125px;
+    }
+
+    .carousel-caption h5 {
+
+        font-size: 17px;
+
+    }
+
+    .carousel-caption a {
+        padding: 10px 15px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+        line-height: 1.6;
+        font-size: 12px;
+    }
+
+    .about-text {
+        padding-top: 50px;
+
+    }
+
+    .card {
+        margin-bottom: 30px;
+    }
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.wrap {
+    max-width: 75%;
+    margin: auto;
+}
+
+.wrap>p,
+.wrap>h1 {
+    margin: 1.5rem 0;
+    text-align: center;
+}
+
+.wrap>h1 {
+    letter-spacing: 0.5s;
+}
+
+.accordion {
+    background-color: white;
+    color: rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 2rem 2.5rem;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-weight: bold;
+}
+
+.accordion i {
+    font-size: 1.6rem;
+}
+
+.active,
+.accordion :hover {
+    background-color: #f1f7f5;
+}
+
+.pannel {
+    padding: 0 2rem 2.5rem 2rem;
+    background-color: white;
+    overflow: hidden;
+    background-color: #f1f7f5;
+    display: none;
+}
+
+.pannel p {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+.faq {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 10px 0;
+}
+
+.faq,
+.active {
+    border: none;
+}
+
+.AU_2 {
+    font-size: 24px;
+}
+
+.AU_3 {
+    font-size: 18px;
+}
+
+.AU_1 {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.Class_1:hover {
+    background-color: goldenrod;
+    border-radius: 13px;
+}
+
+/* End of FAqs Sttyling  */
+
+
+/* About_Us STyling  */
+
+.AU_1 {
+    text-decoration: none;
+    color: white;
+}
+
+.AU_2 {
+    font-size: 24px;
+}
+
+.AU_3 {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+/* Responsiveness By Media Query  */
+
+@media only screen and (min-width:768px) and (max-width: 991px) {
+    .carousel-caption {
+        bottom: 370px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+    }
+
+    .card {
+        margin-bottom: 30px;
+    }
+
+    .img-area img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .carousel-caption {
+        bottom: 125px;
+    }
+
+    .carousel-caption h5 {
+
+        font-size: 17px;
+
+    }
+
+    .carousel-caption a {
+        padding: 10px 15px;
+    }
+
+    .carousel-caption p {
+        width: 100%;
+        line-height: 1.6;
+        font-size: 12px;
+    }
+
+    .about-text {
+        padding-top: 50px;
+
+    }
+
+    .card {
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width:500px) and (max-width: 576px) {
+
+    .ak2 {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+/* Category Ads */
+
+#ads {
+    margin: 30px 0 30px 0;
+
+}
+
+#ads .card-notify-badge {
+    position: absolute;
+    left: -10px;
+    top: -20px;
+    background: #f2d900;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color: #000;
+    padding: 5px 10px;
+    font-size: 14px;
+
+}
+
+#ads .card-notify-year {
+    position: absolute;
+    right: -10px;
+    top: -20px;
+    background: #ff4444;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    width: 50px;
+    height: 50px;
+    padding: 15px 0 0 0;
+}
+
+
+#ads .card-detail-badge {
+    background: #f2d900;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color: #000;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+
+
+#ads .card:hover {
+    background: #fff;
+    box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.15);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+#ads .card-image-overlay {
+    font-size: 20px;
+
+}
+
+
+#ads .card-image-overlay span {
+    display: inline-block;
+}
+
+
+#ads .ad-btn {
+    text-transform: uppercase;
+    width: 150px;
+    height: 40px;
+    border-radius: 80px;
+    font-size: 16px;
+    line-height: 35px;
+    text-align: center;
+    border: 3px solid #e6de08;
+    display: block;
+    text-decoration: none;
+    margin: 20px auto 1px auto;
+    color: #000;
+    overflow: hidden;
+    position: relative;
+    background-color: #e6de08;
+}
+
+#ads .ad-btn:hover {
+    background-color: #e6de08;
+    color: #1e1717;
+    border: 2px solid #e6de08;
+    background: transparent;
+    transition: all 0.3s ease;
+    box-shadow: 12px 15px 20px 0px rgba(46, 61, 73, 0.15);
+}
+
+#ads .ad-title h5 {
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.ak2:hover {
+    transform: scale(1.1);
+}
+
+.ak2 {
+    background-color: aliceblue;
+    border-style: groove;
+    border-radius: 13px;
+    justify-content: center;
+}
